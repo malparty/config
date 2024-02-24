@@ -1,0 +1,4 @@
+{
+  "keyMappings": "# Insert your preferred key mappings here.\n\n# Arrow\nmapkey e j\nmapkey E J\nmapkey i k\nmapkey I K\nmapkey o l\nmapkey O L\nmapkey n h\nmapkey N H\n\n# Down Up\nmapkey , d\nmapkey . u\n\n# Find next/prev\nmapkey p n\nmapkey w N\n\n# Focus on first input\nmapkey gv gi\n# Navigation (f is used for Full Screen on many pages)\nmapkey F f",
+  "settingsVersion": "2.0.5"
+}
